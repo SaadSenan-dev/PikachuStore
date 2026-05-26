@@ -23,9 +23,7 @@ Pikachu Store is a Flutter mobile application built as a structured, multi-widge
 
 ---
 
-## Screenshots
 
-> _Add screenshots here after running the app._
 
 | Home Screen | Product Detail | Sidebar |
 |:-----------:|:--------------:|:-------:|
