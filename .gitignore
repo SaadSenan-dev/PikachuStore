@@ -1,0 +1,36 @@
+# Flutter/Dart build files
+build/
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+
+# Android / iOS generated files
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Coverage
+coverage/
+
+# Logs
+*.log
